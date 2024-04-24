@@ -36,6 +36,9 @@ This repository hosts the code for a remote extension board control system using
 5. **Controlling the Extension Board**:
    - Access the Arduino IoT Cloud dashboard from any internet-enabled device.
    - Toggle the switches (`sw1`, `sw2`, `sw3`, `sw4`) to control the corresponding relay channels on the extension board.
+  
+## Dashboard
+![image](https://github.com/chinmaykrishnroy/ExtentionBoard/assets/65699140/1a77c2ad-8a88-498e-b3fe-4450ada21796)
 
 ## Contributing
 
