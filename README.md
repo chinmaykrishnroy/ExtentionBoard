@@ -41,8 +41,8 @@ This repository hosts the code for a remote extension board control system using
 ![image](https://github.com/chinmaykrishnroy/ExtentionBoard/assets/65699140/1a77c2ad-8a88-498e-b3fe-4450ada21796)
 
 ## Image
-![board](https://github.com/chinmaykrishnroy/ExtentionBoard/assets/65699140/109d9868-1383-4cf6-9dca-59c57349a0bb)
-![board2](https://github.com/chinmaykrishnroy/ExtentionBoard/assets/65699140/9f3b40a9-a6c8-4c5d-ac6f-d27587739f8c)
+![boardonline](https://github.com/chinmaykrishnroy/ExtentionBoard/assets/65699140/89151741-0fa5-4392-a0b3-1c5966d88e1b)
+
 
 ## Contributing
 
